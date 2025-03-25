@@ -138,7 +138,7 @@
           <mxGeometry x="90" y="330" width="300" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ehNKSIcsQaPapnOQiwF8-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Segurança – Armazenar senhas criptografadas.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Usabilidade – Interface intuitiva e acessível.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Escalabilidade – Suportar grande número de usuários simultâneos.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Disponibilidade – Sistema disponível 24/7, exceto manutenção.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Compatibilidade – Acessível por navegadores e dispositivos móveis.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. Desempenho – Tempo de resposta para login e perfil inferior a 2 segundos.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="347.5" width="340" height="345" as="geometry" />
+          <mxGeometry x="530" y="340" width="340" height="345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
